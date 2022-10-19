@@ -1,1 +1,1 @@
-readme for rintf group project. to be updated soon
+This is Readme for printf group project. to be updated soon
